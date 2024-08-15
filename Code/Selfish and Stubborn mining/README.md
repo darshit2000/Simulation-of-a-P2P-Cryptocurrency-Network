@@ -2,15 +2,19 @@ CS765: Introduction of Blockchains, Cryptocurrencies, and Smart Contracts
 
 Project part 2: Simulating a selfish mining attack and Stubborn Mining attack using the P2P Cryptocurrency Network.
 Group Members:
+
 Darshit Gandhi (22M0824)
+
 Abhijeet Singh (22M0749)
+
 Niteen Pawar (22M0800)
 
-
+--------------------------------
 
 1. Compiling and running the code :
 
 python3 main.py n Ttx z0 z1 hp zeta
+
 n = Number of nodes
 Ttx = TXN Interarrival mean time
 z0 = percent of slow nodes
